@@ -19,7 +19,7 @@ Visual Studio
 
 📌Funçoes Aceitas Nessa Versao
 * (+ - / *) => Como é 8 Bits Conta no Máximo de 0-255.
-* # -> Use para Fazer um Loop no Código, '#' Fara a CPU ficar em um loop infinito. 
+*  # -> Use para Fazer um Loop no Código, '#' Fara a CPU ficar em um loop infinito. 
 
 📌 Versão
 * 1.0.0
